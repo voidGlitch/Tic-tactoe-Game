@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Board from './components/Board';
 import { calculateWinner } from './helpers';
 
-import './Style/root.scss';
+import './styles/root.scss';
 
 const App = () => {
   const [history, setHistory] = useState([
