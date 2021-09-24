@@ -1,3 +1,6 @@
+#For view The working of game visit
+http://starttictac.surge.sh/
+
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
